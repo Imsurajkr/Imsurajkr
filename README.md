@@ -7,7 +7,7 @@
 
 
 <h1>I'm a DevOps engineer. I'm from India, living in Jaipur and currently working at fiftyfivetech.</h1>
----
+
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
@@ -40,6 +40,3 @@
 <!-- <a href="https://github.com/Imsurajkr/Firsttimeronly">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Imsurajkr&repo=firsttimeronly&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a> -->
-<!-- 
-### Connect with Me
-[<img align="left" alt="Imsurajkr" width="30px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://imsurajkr.github.io) [<img align="left" alt="Twitter - Imsurajkr" width="30px" src="https://github.com/simple-icons/simple-icons/raw/develop/icons/twitter.svg" />](https://twitter.com/Imsurajkr) [<img align="left" alt="Instagram - " width="30px" src="https://github.com/simple-icons/simple-icons/raw/develop/icons/instagram.svg" />](https://www.instagram.com/RohanDasRD) [<img align="left" alt="LinkedIn - Rohan Das" width="30px" src="https://github.com/simple-icons/simple-icons/raw/develop/icons/linkedin.svg" />](https://www.linkedin.com/in/RohanDas28) [<img align="left" alt="YouTube -Rohan Das" width="30px" src="https://github.com/simple-icons/simple-icons/raw/develop/icons/youtube.svg" />](https://www.youtube.com/c/RohanDasTech) [<img align="left" alt="Email -Rohan Das" width="30px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/envelope-closed.svg" />](mailto:rohandasbirbhum@gmail.com) -->
