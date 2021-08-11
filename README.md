@@ -6,7 +6,7 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=imsurajkr) 
 
 
-<h1>DevOps Advocate from India. Please checkout my projects and star it.</h1>
+<h1>DevOps Advocate By 🖤 . Please checkout my projects and 🌟 it.</h1>
 
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
